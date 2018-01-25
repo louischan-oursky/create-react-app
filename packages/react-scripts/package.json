@@ -1,14 +1,14 @@
 {
-  "name": "react-scripts-ts",
-  "version": "2.13.0",
+  "name": "@oursky/react-scripts",
+  "version": "2.13.0-typescriptcustom.1",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "wmonk/create-react-app",
+  "repository": "oursky/create-react-app",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/wmonk/create-react-app/issues"
+    "url": "https://github.com/oursky/create-react-app/issues"
   },
   "files": [
     "bin",
@@ -32,6 +32,7 @@
     "fs-extra": "3.0.1",
     "html-webpack-plugin": "2.29.0",
     "jest": "20.0.4",
+    "node-sass": "4.7.2",
     "object-assign": "4.1.1",
     "postcss-flexbugs-fixes": "3.2.0",
     "postcss-loader": "2.0.8",
@@ -39,6 +40,7 @@
     "raf": "3.4.0",
     "react-dev-utils": "4.2.1",
     "source-map-loader": "^0.2.1",
+    "sass-loader": "6.0.6",
     "style-loader": "0.19.0",
     "sw-precache-webpack-plugin": "0.11.4",
     "ts-jest": "^20.0.7",
